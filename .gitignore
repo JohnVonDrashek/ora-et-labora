@@ -1,0 +1,22 @@
+# LOVE2D
+*.love
+
+# Save data (generated at runtime)
+*.dat
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Editor
+*~
+*.swp
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git worktrees
+.worktrees/
