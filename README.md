@@ -6,7 +6,7 @@ A monastery management simulator built with [LOVE2D](https://love2d.org/). Guide
 
 ## Why
 
-Game Dev Story is a classic, but there aren't many management sims set in a medieval monastery. This project re-themes the studio-management formula around monastic life: scribes instead of programmers, patrons instead of platforms, and divine inspiration instead of crunch time.
+There aren't many management sims set in a medieval monastery. Run a scriptorium, manage monks with distinct vocations, court patrons from local parishes to the papal court, and hope for divine inspiration along the way.
 
 ## Install
 
