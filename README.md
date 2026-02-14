@@ -2,7 +2,7 @@
 
 A monastery management simulator built with [LOVE2D](https://love2d.org/). Guide your monks through creating illuminated manuscripts, brewing ale, composing sacred music, and building your abbey's renown — all with procedurally generated graphics and audio.
 
-<!-- ![Ora et Labora gameplay](screenshot.png) -->
+![Ora et Labora gameplay](screenshot.png)
 
 ## Why
 
